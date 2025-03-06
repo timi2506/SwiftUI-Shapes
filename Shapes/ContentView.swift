@@ -18,7 +18,6 @@ struct ContentView: View {
                     Label("About", systemImage: "info.circle")
                 }.navigationTitle("About")
             }
-            .navigationBarTitleDisplayMode(.large)
         }
     }
 }
